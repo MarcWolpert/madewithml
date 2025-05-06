@@ -1,0 +1,12 @@
+# this is markup for the cluster
+base_image: anyscale/ray:2.6.0-py310-cu118
+env_vars: {}
+debian_packages:
+  - curl
+
+python:
+  pip_packages:[]
+  conda_packages:[]
+
+post_build_cmds:
+  - python3 -
