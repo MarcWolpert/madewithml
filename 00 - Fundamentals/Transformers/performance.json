@@ -1,0 +1,34 @@
+{
+  "overall": {
+    "precision": 1.0,
+    "recall": 0.24666666666666667,
+    "f1": 0.39572192513368987,
+    "num_samples": 450.0
+  },
+  "class": {
+    "1": {
+      "precision": 1.0,
+      "recall": 0.24666666666666667,
+      "f1": 0.39572192513368987,
+      "num_samples": 450.0
+    },
+    "2": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 0.0
+    },
+    "3": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 0.0
+    },
+    "4": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "num_samples": 0.0
+    }
+  }
+}
